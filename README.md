@@ -1,2 +1,2 @@
 # html-portfolio
-This is my first html project assigned by my Instructor Dr Angela, Thois may not be perfect but i have good knowlege of html and can comfortbly handle html projects, Thanks to my teacher!
+This is my first html project assigned by my Instructor Dr Angela, This may not be perfect but i have good knowledge of html and can comfortbly handle html projects, Thanks to my teacher!
